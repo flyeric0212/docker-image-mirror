@@ -13,3 +13,4 @@ eclipse-temurin:21-jre
 ibm-semeru-runtimes:open-21-jre
 eclipse-temurin:21-jdk
 node:20-alpine
+node:24-alpine
